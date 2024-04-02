@@ -8,3 +8,7 @@ my commit
 7
 8
 new commit
+
+public void printHello(){
+    print("hello");
+}
