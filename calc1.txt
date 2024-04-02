@@ -11,4 +11,5 @@ new commit
 
 public void printHello(){
     print("hello");
+    print("ok, bye");
 }
