@@ -13,3 +13,8 @@ public void printHello(){
     print("hello");
     print("ok, bye");
 }
+
+
+public void sayBye(){
+    print("some code change...");
+}
