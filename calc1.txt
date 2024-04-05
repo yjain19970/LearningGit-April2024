@@ -1,0 +1,20 @@
+1
+2
+3
+4
+5
+my commit
+6
+7
+8
+new commit
+
+public void printHello(){
+    print("hello");
+    print("ok, bye");
+}
+
+
+public void sayBye(){
+    print("some code change...");
+}
