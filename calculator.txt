@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 public int addTwoNumbers(int x, int y){
     return x+y;
 }
-=======
+
 public int multiplyTwoNumbers(int x, int y){
     return x*y;
 }
->>>>>>> multiply-method
+
+public int divideTwoNumbers(int x, int y){
+    return x/y;
+}
+
