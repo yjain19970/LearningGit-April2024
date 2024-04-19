@@ -2,4 +2,5 @@ Added new calculation
 
 public void newCalc(){
     print("new calculation");
+    print("Updated new calculation");
 }
